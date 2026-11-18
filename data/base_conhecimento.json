@@ -1,0 +1,293 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Fazer ou regularizar o CPF",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "tirar o cpf",
+      "fazer cpf",
+      "fazer o cpf",
+      "emitir cpf",
+      "cadastro de pessoa fisica",
+      "regularizar cpf",
+      "cpf irregular"
+    ],
+    "resposta": "A inscrição no CPF é feita pela Receita Federal e é gratuita pelo site da Receita. Também dá para fazer em órgãos conveniados, como Correios, Banco do Brasil, Caixa e cartórios, onde pode haver cobrança de taxa. Se o seu CPF já existe, mas está irregular, a regularização é feita pelo mesmo órgão.",
+    "documentos": [
+      "Documento de identificação oficial (RG, CNH ou certidão de nascimento)",
+      "Título de eleitor, se você já tiver"
+    ],
+    "onde": "Site da Receita Federal (gov.br) ou unidades conveniadas, como Correios e bancos",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br e entender os níveis",
+    "palavras_chave": [
+      "gov br",
+      "govbr",
+      "conta gov",
+      "criar conta gov",
+      "nivel prata",
+      "nivel ouro",
+      "nivel bronze"
+    ],
+    "resposta": "A conta gov.br é gratuita e funciona como login para vários serviços do governo, como a Carteira de Trabalho Digital. Ela tem níveis de segurança (bronze, prata e ouro) e alguns serviços exigem prata ou ouro. Você pode aumentar o nível validando seus dados, por exemplo com reconhecimento facial pelo aplicativo gov.br.",
+    "documentos": [
+      "CPF",
+      "Celular ou e-mail para criar a conta"
+    ],
+    "onde": "Site gov.br ou aplicativo gov.br",
+    "fonte": "https://www.gov.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Recuperar a senha da conta gov.br",
+    "palavras_chave": [
+      "esqueci a senha",
+      "esqueci senha",
+      "senha gov",
+      "recuperar senha",
+      "redefinir senha",
+      "trocar senha"
+    ],
+    "resposta": "Na tela de login do gov.br, informe o CPF e escolha 'Esqueci minha senha'. O sistema oferece formas de confirmar sua identidade, como o reconhecimento facial pelo aplicativo. Desconfie de links recebidos por mensagem: use apenas o site ou o aplicativo oficial.",
+    "documentos": [
+      "CPF",
+      "Celular ou e-mail cadastrados, ou o seu rosto para a validação facial"
+    ],
+    "onde": "Site gov.br ou aplicativo gov.br",
+    "fonte": "https://www.gov.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 4,
+    "categoria": "Trabalho",
+    "titulo": "Acessar a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "carteira de trabalho digital",
+      "ctps",
+      "ctps digital",
+      "carteira digital",
+      "primeira carteira de trabalho",
+      "app carteira de trabalho"
+    ],
+    "resposta": "Quem tem CPF já possui a Carteira de Trabalho Digital, então não é preciso pedir a carteira de papel. Baixe o aplicativo Carteira de Trabalho Digital (Android ou iOS) ou use o portal Emprega Brasil e entre com a sua conta gov.br. Para ter acesso completo, a conta pode precisar estar no nível prata ou ouro.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal Emprega Brasil",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Começar como Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendiz",
+      "menor aprendiz",
+      "contrato de aprendizagem",
+      "programa de aprendizagem"
+    ],
+    "resposta": "O contrato de aprendizagem permite começar a trabalhar com carteira assinada e aprender uma profissão. Em geral, é voltado a jovens de 14 a 24 anos, dura no máximo 2 anos e exige estar estudando ou ter concluído o ensino médio, além de fazer um curso de aprendizagem. Procure vagas no portal Emprega Brasil e em instituições de aprendizagem.",
+    "documentos": [
+      "Documento de identificação com foto",
+      "CPF",
+      "Comprovante de matrícula ou de conclusão do ensino médio",
+      "Autorização dos responsáveis, se tiver menos de 18 anos"
+    ],
+    "onde": "Empresas que contratam aprendizes, instituições de aprendizagem e portal Emprega Brasil",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Documentos que a empresa costuma pedir na contratação",
+    "palavras_chave": [
+      "primeiro emprego",
+      "documentos para trabalhar",
+      "documentos para ser contratado",
+      "documentos de admissao",
+      "exame admissional",
+      "admissao"
+    ],
+    "resposta": "Cada empresa pode pedir uma lista um pouco diferente, mas em geral pede documento com foto, CPF, título de eleitor, comprovante de residência e dados bancários para o pagamento do salário. Homens também podem precisar do certificado de alistamento militar. O exame médico admissional é pago pela empresa, não por você.",
+    "documentos": [
+      "Documento de identificação com foto",
+      "CPF",
+      "Título de eleitor",
+      "Comprovante de residência",
+      "Dados bancários, se a empresa pedir",
+      "Certificado de alistamento militar (homens)"
+    ],
+    "onde": "Setor de Recursos Humanos (RH) da empresa que contratou você",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Direitos de quem trabalha com carteira assinada",
+    "palavras_chave": [
+      "carteira assinada",
+      "direitos do trabalhador",
+      "direitos trabalhistas",
+      "13o salario",
+      "13 salario",
+      "decimo terceiro",
+      "ferias",
+      "vale transporte",
+      "clt"
+    ],
+    "resposta": "Quem trabalha com carteira assinada (CLT) tem direitos como salário, depósito do FGTS, 13º salário, férias com adicional de um terço e vale-transporte, entre outros. As regras de jornada podem variar conforme o contrato e a categoria. Em caso de dúvida, consulte o Ministério do Trabalho e Emprego ou o sindicato da sua categoria.",
+    "documentos": [
+      "Contrato de trabalho (guarde uma cópia)",
+      "Holerites (contracheques)"
+    ],
+    "onde": "Site do Ministério do Trabalho e Emprego ou sindicato da categoria",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Denunciar problema no trabalho",
+    "palavras_chave": [
+      "denunciar empresa",
+      "denuncia trabalhista",
+      "denunciar patrao",
+      "disque 158",
+      "trabalho irregular",
+      "salario atrasado",
+      "sem registro"
+    ],
+    "resposta": "Se a empresa não registrou você, atrasa o salário ou descumpre direitos, é possível fazer uma denúncia ao Ministério do Trabalho e Emprego pelo Disque 158 ou pelos canais online do ministério. Guarde provas, como mensagens, fotos de escalas de trabalho e comprovantes.",
+    "documentos": [
+      "Dados da empresa (nome, endereço e CNPJ, se souber)",
+      "Provas, como mensagens, fotos ou comprovantes, se tiver"
+    ],
+    "onde": "Disque 158 ou site do Ministério do Trabalho e Emprego",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 9,
+    "categoria": "Dinheiro e salário",
+    "titulo": "Consultar o saldo do FGTS",
+    "palavras_chave": [
+      "fgts",
+      "saldo do fgts",
+      "extrato do fgts",
+      "consultar fgts",
+      "app fgts",
+      "fundo de garantia"
+    ],
+    "resposta": "O FGTS é um dinheiro que a empresa deposita todo mês em uma conta no seu nome, para quem trabalha com carteira assinada. Você pode ver o saldo e o extrato no aplicativo FGTS, da Caixa. Se perceber que a empresa não depositou, procure o RH e, se não resolver, o Ministério do Trabalho.",
+    "documentos": [
+      "CPF",
+      "Celular com o aplicativo FGTS instalado"
+    ],
+    "onde": "Aplicativo FGTS ou site da Caixa",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 10,
+    "categoria": "Dinheiro e salário",
+    "titulo": "Conta-salário e portabilidade do salário",
+    "palavras_chave": [
+      "conta salario",
+      "portabilidade do salario",
+      "portabilidade de salario",
+      "trocar banco do salario",
+      "receber salario em outro banco"
+    ],
+    "resposta": "Muitas empresas abrem uma conta-salário em nome do trabalhador. Pelas regras do Banco Central, você pode pedir a portabilidade do salário, ou seja, passar a receber em outra conta sua, escolhida por você. O pedido é feito no banco que vai receber o salário.",
+    "documentos": [
+      "Documento com foto",
+      "CPF",
+      "Nome e CNPJ da empresa que paga o salário"
+    ],
+    "onde": "Banco ou instituição onde você quer receber o salário",
+    "fonte": "https://www.bcb.gov.br/cidadaniafinanceira",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 11,
+    "categoria": "Cidadania",
+    "titulo": "Tirar o título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "tirar titulo",
+      "e titulo",
+      "etitulo",
+      "alistamento eleitoral",
+      "votar"
+    ],
+    "resposta": "O título é feito na Justiça Eleitoral. O voto é facultativo para quem tem 16 ou 17 anos e obrigatório a partir dos 18 anos. O pedido pode ser iniciado pela internet, mas o atendimento pode exigir ida ao cartório eleitoral; confira as regras no site do TSE. A versão digital do título fica no aplicativo e-Título.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Comprovante de residência",
+      "Certificado de quitação militar (homens a partir dos 18 anos)"
+    ],
+    "onde": "Cartório eleitoral ou site do TSE (Título Net)",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 12,
+    "categoria": "Cidadania",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": [
+      "alistamento militar",
+      "alistamento",
+      "me alistar",
+      "servico militar",
+      "reservista",
+      "certificado de reservista",
+      "quartel"
+    ],
+    "resposta": "O alistamento militar é obrigatório para homens no ano em que completam 18 anos, de 1º de janeiro até 30 de junho, e pode ser feito pela internet. Mulheres não são obrigadas a se alistar. Quem perdeu o prazo deve procurar uma Junta de Serviço Militar para regularizar a situação; pode haver multa.",
+    "documentos": [
+      "Documento de identidade",
+      "CPF",
+      "Comprovante de residência"
+    ],
+    "onde": "Site do Alistamento Militar (Ministério da Defesa) ou Junta de Serviço Militar",
+    "fonte": "https://www.gov.br/defesa",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 13,
+    "categoria": "Cidadania",
+    "titulo": "Justificar a ausência na votação",
+    "palavras_chave": [
+      "justificar voto",
+      "justificar o voto",
+      "justificar ausencia",
+      "justificativa eleitoral",
+      "nao votei",
+      "esqueci de votar"
+    ],
+    "resposta": "Quem não votou pode justificar a ausência à Justiça Eleitoral, em geral em até 60 dias depois da eleição. Isso pode ser feito pelo aplicativo e-Título, pelo site do TSE ou em um cartório eleitoral. Se o prazo passar, é possível regularizar depois, e pode haver multa.",
+    "documentos": [
+      "Número do título de eleitor ou dados pessoais para identificação",
+      "Comprovante do motivo da ausência, se for pedido"
+    ],
+    "onde": "Aplicativo e-Título, site do TSE ou cartório eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-17"
+  }
+]
