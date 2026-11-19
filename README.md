@@ -142,6 +142,3 @@ Todas as orientações foram conferidas em 2026-11-17 (campo `verificado_em`).
 - O tempo de atendimento inclui o tempo de leitura e digitação da pessoa.
 - Não é canal oficial e não substitui o atendimento dos órgãos públicos.
 
-## Vídeo técnico
-
-Link: _ (colar o link do YouTube não listado)
